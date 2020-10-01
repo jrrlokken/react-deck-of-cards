@@ -1,0 +1,21 @@
+.Deck {
+  text-align: center;
+}
+
+.Deck-drawButton {
+  padding: 10px;
+  background-color: darkslategray;
+  color: antiquewhite;
+  border-radius: 5%;
+  border: none;
+  margin: 0 10px;
+  outline: none
+}
+
+.Deck-drawButton:hover {
+  cursor: pointer;
+}
+
+.Deck-cardArea {
+  margin-top: 80px;
+}
